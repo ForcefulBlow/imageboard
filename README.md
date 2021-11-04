@@ -9,7 +9,7 @@ Source code might be offensive, so keep it in mind. It is written poorly... So y
 This imageboard is not secure by any means of imagination, run exposed to the internet at your own risk!
 
 
-#How to install
+# How to install
 
 0) Make sure you have php-gd, and other stuff
 1) download post.php, threads.html
