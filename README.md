@@ -4,7 +4,7 @@ Simple imageboard for self-educational purposes only
 
 This is a small imageboard, just to get familiar with PHP, HTML and web development in general. 
 
-Source code might be offensive, so keep it in mind. It is written poorly on purpose, so you don't have to.
+Source code might be offensive, so keep it in mind. It is written poorly... So you know how not to code.
 
 This imageboard is not secure by any means of imagination, run exposed to the internet at your own risk!
 
