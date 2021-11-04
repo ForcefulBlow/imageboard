@@ -15,4 +15,4 @@ This imageboard is not secure by any means of imagination, run exposed to the in
 1) download post.php, threads.html
 2) make threads, img, thmb folders
 3) ????
-4) You have an imageboard, try to figure out how it works, and make it better.
+4) You have an imageboard, try to figure out how it works, and make it better. (or even better, make a better imageboard from scratch)
